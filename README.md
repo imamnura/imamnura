@@ -28,7 +28,7 @@ I am a Frontend Web Development priest. I spend most of my time coding amazing p
 <a href="https://nodejs.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" style="max-width: 100%; margin-right:10px;"></a>
 <a href="https://git-scm.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="GIT" style="max-width: 100%; margin-right:10px;"></a>
 
-#### Budges
+#### My GitHub Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=imamnura&count_private=true&show_icons=true&theme=aura_dark )
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imamnura&show_icons=true&theme=aura_dark&layout=compact)
