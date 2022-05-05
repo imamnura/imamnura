@@ -1,6 +1,6 @@
 ### Hi there, I'm Imam <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi" style="max-width: 100%;"></a>
 
-I am a Frontend Web Development priest. I spend most of my time coding amazing projects or playing badminton to keep fit. I really like the software development process, where you can take anything from an idea to a real product that many people can use.
+I am a Frontend Developer. I spend most of my time coding amazing projects or playing badminton to keep fit. I really like the software development process, where you can take anything from an idea to a real product that many people can use.
 
 #### 📫 Reach me out!
 
@@ -9,7 +9,7 @@ I am a Frontend Web Development priest. I spend most of my time coding amazing p
 <a href="mailto:imam.12ra.kkpi@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/-imam%20nur%20arifin-EA4335?logo=gmail&logoColor=fff"></a>
 <a href="https://www.instagram.com/cupu.dev/" rel="nofollow"><img src="https://img.shields.io/badge/-cupu.dev-E4405F?logo=instagram&logoColor=fff"></a>
 <a href="https://twitter.com/imamnura21" rel="nofollow"><img src="https://img.shields.io/badge/-@imamnura21-1DA1F2?logo=twitter&logoColor=fff"></a>
-<a href="#" rel="nofollow"><img src="https://img.shields.io/badge/-imamnura-5865F2?logo=discord&logoColor=fff"></a>
+<a href="https://discord.com/login" rel="nofollow" title="imamnura#3040"><img src="https://img.shields.io/badge/-imamnura-5865F2?logo=discord&logoColor=fff"></a>
 </p>
 
 - 🌍 I'm based in Purwakarta, West Java, Indonesia
