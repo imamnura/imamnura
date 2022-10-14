@@ -15,8 +15,8 @@ I am a Frontend Developer. I spend most of my time coding amazing projects or pl
 - 🌍 I'm based in Purwakarta, West Java, Indonesia
 - 💻 Most used line of code `git commit -m "Initial Commit"`
 - 🚀 I'm currently working on Telkom Indonesia
-- 🧠 I’m currently learning Flutter
-- 🥅 2022 Goals: Learn more about UI/UX
+- 🧠 I’m currently learning Next JS
+- 🥅 2022 Goals: Learn more about MERN
 - ⚡ Fun fact: I play badminton and like fruits
 
 #### Languages and Tools
