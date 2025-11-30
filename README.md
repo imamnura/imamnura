@@ -80,6 +80,10 @@ More: Visit my portfolio.
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imamnura&show_icons=true&theme=aura_dark&layout=compact)
+
+---
+
 ## 🧱 Development Philosophy
 - **Performance-first** → Lighthouse, Web Vitals, bundle analysis.  
 - **Component-driven** → Reusable, consistent, predictable.  
