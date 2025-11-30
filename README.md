@@ -89,13 +89,6 @@ More: Visit my portfolio.
 
 ---
 
-## 📊 GitHub Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=imamnura&count_private=true&show_icons=true&theme=aura_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imamnura&show_icons=true&theme=aura_dark&layout=compact)
-
----
-
 ## 📝 Open for Collaboration
 I'm open to collaborating on interesting frontend projects, consulting, or architecture discussions.  
 Feel free to reach out!
